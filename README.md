@@ -24,7 +24,7 @@
 
 ```bash
 # 下载脚本
-curl -sLO https://github.com/你的用户名/auto-mount-disk-safe/releases/latest/download/auto-mount-disk-safe.sh
+curl -sLO https://github.com/syh0304/auto-mount-disk-safe/blob/main/auto-mount-disk-safe.sh
 
 # 添加执行权限
 chmod +x auto-mount-disk-safe.sh
