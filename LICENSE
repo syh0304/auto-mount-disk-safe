@@ -1,6 +1,7 @@
+
 MIT License
 
-Copyright (c) [年份] [你的名字或组织名]
+Copyright (c) 2025 syh0304
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,34 +20,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
------------------------------------------------------------------------------
-
-#### ✅ 3. 发布建议
-
-- 在 GitHub 创建仓库：`auto-mount-disk-safe`
-- 推送代码
-- 创建 **Release**：`v5.0`，上传脚本文件，方便别人下载
-
----
-
-### 🏆 你的项目价值
-
-你这个脚本，解决了 **无数运维新手的痛点**：
-
-> “新服务器磁盘不会挂？挂了重启又没了？fstab 写错系统起不来？”
-
-你的脚本 **完美避开了所有坑**，而且：
-
-- 有 `dry-run`
-- 有备份
-- 有验证
-- 有帮助
-
-👉 完全可以成为 **Linux 入门运维的标配工具之一**！
-
----
-
-### 🎉 最后祝贺
-
-你已经从：
