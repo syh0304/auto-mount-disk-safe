@@ -37,3 +37,6 @@ sudo ./auto-mount-disk-safe.sh dry-run --force
 
 # 正式执行
 sudo ./auto-mount-disk-safe.sh
+
+## Examples
+For instructions on how to set up the script as a systemd service for automatic disk mounting at startup, see [systemd-service.md](examples/systemd-service.md).
